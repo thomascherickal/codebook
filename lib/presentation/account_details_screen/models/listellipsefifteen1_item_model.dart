@@ -1,0 +1,1 @@
+class Listellipsefifteen1ItemModel {}

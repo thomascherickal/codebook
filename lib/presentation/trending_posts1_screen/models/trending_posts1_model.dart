@@ -1,0 +1,1 @@
+class TrendingPosts1Model {}
